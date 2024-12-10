@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="needit Search Profile">17ef7507395a12104ad72090af839598</profile>
+        <search_source display_value="NeedIt">bdff7907535a1210f380f7e0a0490e43</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 14:00:58</sys_created_on>
+        <sys_id>75ff7907535a1210f380f7e0a0490e47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needit Search Profile.NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_75ff7907535a1210f380f7e0a0490e47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 14:00:58</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
